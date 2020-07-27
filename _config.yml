@@ -1,0 +1,24 @@
+# Remote Setting
+baseurl: "/" #https://github.com/pmarsceill/just-the-docs/issues/148
+#url: "photography.github.io/FocalLength/"
+repository: photography/FocalLength
+
+title: Focal Length
+
+description: A Repository to help photographers choose the right lens
+
+permalink: pretty
+
+# Theme
+# theme: "just-the-docs"
+remote_theme: pmarsceill/just-the-docs
+
+# Google Analytics Tracking (optional)
+# e.g, UA-159396166-4
+# ga_tracking: UA-159396166-4
+# plugins:  # not for this theme, but just to be safe, unless it breaks somthing?
+#  - jekyll-seo-tag # not for this theme, but just to be safe, unless it breaks somthing?
+# google_analytics: UA-159396166-4 # not for this theme, but just to be safe, unless it breaks somthing?
+
+aux_links:
+    - ![Jekyll site CI](https://github.com/photography/FocalLength/workflows/Jekyll%20site%20CI/badge.svg)
