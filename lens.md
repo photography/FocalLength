@@ -1,6 +1,6 @@
 ---
 layout: default
-title: lens's
+title: Lens Landing Page
 nav_order: 2
 has_children: true
 ---
