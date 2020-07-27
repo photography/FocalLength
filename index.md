@@ -1,6 +1,6 @@
 ---
 layout: default
-title: index
+title: Focal Length Home
 nav_order: 1
 has_children: false
 ---
