@@ -1,6 +1,6 @@
 # Remote Setting
 baseurl: "/" #https://github.com/pmarsceill/just-the-docs/issues/148
-#url: "photography.github.io/FocalLength/"
+#url: "empowering.photography/"
 repository: photography/FocalLength
 
 title: Focal Length
