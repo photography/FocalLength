@@ -5,14 +5,12 @@ parent: Comparison Home
 nav_order: 1
 has_children: false
 ---
+{% include css/just-the-docs.scss.liquid color_scheme="FocalLength" %}
 
 # Body Comparison
 
----
----
-{% include css/just-the-docs.scss.liquid color_scheme="FocalLength" %}
 
-<div><img src="/images/Body/24mm.JPG" width="200"> 24mm</div> <div><img src="/images/Body/35mm.JPG" width="200">35mm</div>  <div><img src="/images/Body/50mm.JPG" width="200"> 50mm</div>
+<div class="floatingtext"><img src="/images/Body/24mm.JPG" width="200"> 24mm</div> <div class="floatingtext"><img src="/images/Body/35mm.JPG" width="200">35mm</div>  <div class="floatingtext"><img src="/images/Body/50mm.JPG" width="200"> 50mm</div>
 
 
 <img src="/images/Body/58mm-prime.JPG" width="200"> <img src="/images/Body/85mm-prime.JPG" width="200"> <img src="/images/Body/105mm-prime.JPG" width="200"> 
