@@ -5,9 +5,12 @@ parent: Comparison Home
 nav_order: 1
 has_children: false
 ---
-{% include css/just-the-docs.scss.liquid color_scheme="FocalLength" %}
 
 # Body Comparison
+
+<script>
+    jtd.setTheme('FocalLength');
+</script>
 
 
 <div class="floatingtext"><img src="/images/Body/24mm.JPG" width="200"><div class="bottom-centered ">24mm</div></div> <div class="floatingtext"><img src="/images/Body/35mm.JPG" width="200"><div class="bottom-centered ">35mm</div> </div>  <div class="floatingtext"><img src="/images/Body/50mm.JPG" width="200"><div class="bottom-centered ">50mm</div> </div>
