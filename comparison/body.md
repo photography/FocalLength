@@ -8,6 +8,7 @@ has_children: false
 
 # Body Comparison
 
+{% include css/just-the-docs.scss.liquid color_scheme="FocalLength" %}
 
 <img src="/images/Body/24mm.JPG" width="200"> <img src="/images/Body/35mm.JPG" width="200"> <img src="/images/Body/50mm.JPG" width="200"> 
 

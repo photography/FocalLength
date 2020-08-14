@@ -8,6 +8,8 @@ has_children: false
 
 # Headshot Comparison
 
+{% include css/just-the-docs.scss.liquid color_scheme="FocalLength" %}
+
 <img src="/images/Head/24mm.JPG" width="200"> <img src="/images/Head/35mm.JPG" width="200"> <img src="/images/Head/50mm.JPG" width="200"> <img src="/images/Head/70mm.JPG" width="200"> 
 
 
