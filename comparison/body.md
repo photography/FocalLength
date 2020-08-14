@@ -26,13 +26,19 @@ has_children: false
   </tr>
   <tr>
     <th>
-        <img src="/images/Body/58mm-prime.JPG" width="200">
+        <div class="floatingtext">
+            <img src="/images/Body/58mm-prime.JPG" width="200">
+        <div class="bottom-centered ">58mm</div> </div>
     </th>
     <th>  
-        <img src="/images/Body/85mm-prime.JPG" width="200">
+        <div class="floatingtext">
+            <img src="/images/Body/85mm-prime.JPG" width="200">
+        <div class="bottom-centered ">85mm</div> </div>
     </th>
-    <th>  
-        <img src="/images/Body/105mm-prime.JPG" width="200"> 
+    <th> 
+        <div class="floatingtext"> 
+            <img src="/images/Body/105mm-prime.JPG" width="200"> 
+        <div class="bottom-centered ">105mm</div> </div>
     </th>
   </tr>
 </table>
