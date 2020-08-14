@@ -11,4 +11,4 @@ has_children: false
 <img src="/images/Head/24mm.JPG" width="200"> <img src="/images/Head/35mm.JPG" width="200"> <img src="/images/Head/50mm.JPG" width="200"> <img src="/images/Head/70mm.JPG" width="200"> 
 
 
-<img src="/images/Head/58-Prime.JPG" width="200"><img src="/images/Head/58-prime-close.JPG" width="200"> <img src="/images/Head/105-prime.JPG" width="200"> 
+<img src="/images/Head/58mm-Prime.JPG" width="200"> <img src="/images/Head/58mm-prime-close.JPG" width="200"> <img src="/images/Head/105mm-prime.JPG" width="200"> 

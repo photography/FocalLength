@@ -12,4 +12,4 @@ has_children: false
 <img src="/images/Body/24mm.JPG" width="200"> <img src="/images/Body/35mm.JPG" width="200"> <img src="/images/Body/50mm.JPG" width="200"> 
 
 
-<img src="/images/Body/58-prime.JPG" width="200"> <img src="/images/Body/85-prime.JPG" width="200"> <img src="/images/Body/105-prime.JPG" width="200"> 
+<img src="/images/Body/58mm-prime.JPG" width="200"> <img src="/images/Body/85mm-prime.JPG" width="200"> <img src="/images/Body/105mm-prime.JPG" width="200"> 
